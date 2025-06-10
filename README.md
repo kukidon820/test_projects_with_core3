@@ -1,0 +1,1 @@
+# test_projects_with_core3
